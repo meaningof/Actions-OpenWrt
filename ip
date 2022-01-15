@@ -1,0 +1,9 @@
+    inet6 240e:389:7108:ad00:64d7:53c0:4fd:b8a4/64 scope global temporary dynamic 
+    inet6 240e:389:7108:ad00:7cb0:de5b:d270:3a2c/64 scope global temporary deprecated dynamic 
+    inet6 240e:389:7108:ad00:6142:e521:a2de:a436/64 scope global temporary deprecated dynamic 
+    inet6 240e:389:7108:ad00:8c06:9fa8:2e3a:30b5/64 scope global temporary deprecated dynamic 
+    inet6 240e:389:7108:ad00:5427:1486:4c09:9e37/64 scope global temporary deprecated dynamic 
+    inet6 240e:389:7108:ad00:b9e2:378a:3a6f:20eb/64 scope global temporary deprecated dynamic 
+    inet6 240e:389:7108:ad00:896f:a7b0:a51c:87c9/64 scope global temporary deprecated dynamic 
+    inet6 240e:389:7108:ad00::e50/128 scope global dynamic noprefixroute 
+    inet6 240e:389:7108:ad00:200:c9ff:febc:da0c/64 scope global dynamic mngtmpaddr noprefixroute 
